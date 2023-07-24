@@ -1,2 +1,2 @@
-# ejercicio-practica
+# Practica
 Created with CodeSandbox
